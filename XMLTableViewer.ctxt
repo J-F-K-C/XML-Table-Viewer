@@ -1,5 +1,5 @@
 #BlueJ class context
-comment0.target=KostentraegerViewer
+comment0.target=XMLTableViewer
 comment1.params=args
 comment1.target=void\ main(java.lang.String[])
 comment2.params=xmlFile
@@ -19,3 +19,4 @@ comment8.target=void\ changedUpdate(javax.swing.event.DocumentEvent)
 comment9.params=table
 comment9.target=void\ exportToCSV(javax.swing.JTable)
 numComments=10
+
